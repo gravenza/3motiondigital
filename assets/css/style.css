@@ -603,6 +603,7 @@ background:#14BFCE;
 ul.nofitications-dropdown {
     padding: 0;
     margin: 0;
+    margin-left: -20px;
 }
 li.dropdown.head-dpdn:nth-child(2) {
     
